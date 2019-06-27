@@ -1,0 +1,1 @@
+/usr/bin/c++   -O2 --std=c++0x    CMakeFiles/skymax.dir/inputparser.cpp.o CMakeFiles/skymax.dir/main.cpp.o CMakeFiles/skymax.dir/skymax.cpp.o CMakeFiles/skymax.dir/tools.cpp.o  -o skymax -rdynamic -lpthread 

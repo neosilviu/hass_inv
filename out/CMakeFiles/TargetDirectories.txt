@@ -1,0 +1,3 @@
+/opt/skymax/out/CMakeFiles/rebuild_cache.dir
+/opt/skymax/out/CMakeFiles/edit_cache.dir
+/opt/skymax/out/CMakeFiles/skymax.dir
